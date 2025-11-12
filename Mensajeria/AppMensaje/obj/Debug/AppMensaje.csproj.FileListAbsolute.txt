@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\AppMensaje\bin\Debug\AppMensaje.exe.config
+C:\Users\Angel\source\repos\AppMensaje\bin\Debug\AppMensaje.exe
+C:\Users\Angel\source\repos\AppMensaje\bin\Debug\AppMensaje.pdb
+C:\Users\Angel\source\repos\AppMensaje\obj\Debug\AppMensaje.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\AppMensaje\obj\Debug\AppMensaje.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\AppMensaje\obj\Debug\AppMensaje.exe
+C:\Users\Angel\source\repos\AppMensaje\obj\Debug\AppMensaje.pdb
